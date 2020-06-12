@@ -1,3 +1,6 @@
+
+This is an application create with React with the addition of Charts.js, Material UI, Hooks and many different modules.  The data is fetched from the API  using Async/Await syntax and it shows by cards displaying the statistics as well as Charts.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
