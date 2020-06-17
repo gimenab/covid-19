@@ -12,7 +12,5 @@ This is an application create with React with the addition of Charts.js, Materia
 <img src="https://github.com/gimenab/covid-19/blob/master/src/images/covid-19-4.jpg" alt="covid-19 tracker" width="400"/>
 <img src="https://github.com/gimenab/covid-19/blob/master/src/images/covid-19-6.jpg" alt="covid-19 tracker" width="400"/>
 
-#### Watch video
-[![Tracker Covid-19 ](http://img.youtube.com/vi/52ip-s2sWSw/0.jpg)](http://www.youtube.com/watch?v=52ip-s2sWSw "Tracker Covid-19 ")
 
 
